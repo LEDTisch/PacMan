@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="LEDWall2.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../LEDWall/LEDWall2.0/out/artifacts/LEDWall2_0_jar/LEDWall2.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

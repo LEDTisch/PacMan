@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="PacMan:jar">
+    <output-path>$USER_HOME$/.LEDWall/apps</output-path>
+    <root id="archive" name="PacMan.jar">
+      <element id="module-output" name="PacMan" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../LEDWall/LEDWall2.0/out/artifacts/LEDWall2_0_jar/LEDWall2.0.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
